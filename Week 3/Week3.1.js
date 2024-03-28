@@ -41,3 +41,6 @@ app.listen(4000,()=>{
     console.log("server is running on port 4000");
 })
 
+//git config --global user.email "vaibhavwadhwa06@gmail.com"
+
+
